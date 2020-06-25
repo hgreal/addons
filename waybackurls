@@ -1,0 +1,1 @@
+go get github.com/tomnomnom/waybackurls & echo INPUT | /root/go/bin/waybackurls > ./addons/result.txt 
