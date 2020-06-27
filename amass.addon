@@ -1,0 +1,1 @@
+sudo snap install amass & amass enum -o ./addons/result.txt -d INPUT
